@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @fgolge
-- 👀 I’m interested in game developing.
-- 🌱 I’m currently learning Unity.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me through Discord Yorgun Demokrat#5802.
+Hi. I am Fatih Gölge, currently undergraduate Astronautics Engineering student at Istanbul Technical University.
+My aim is to become a gamedeveloper. I intend to use my engineering knowledge through game development projects.
+I plan to use my repository for prototypes and sample scenes I will create for my future games.
+They can be considered as part of my CV.
 
 <!---
 fgolge/fgolge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
