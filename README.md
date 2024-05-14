@@ -1,10 +1,8 @@
-Hi. I am Fatih Gölge, currently undergraduate Astronautics Engineering student at Istanbul Technical University.
-My aim is to become a gamedeveloper. I intend to use my engineering knowledge through game development projects.
-I plan to use my repository for prototypes and sample scenes I will create for my future games.
-They can be considered as part of my CV.
+Hello, I'm Fatih Gölge, an astronautical engineer and game developer. 
+I leverage my engineering expertise in my game development projects, utilizing my repository to showcase prototypes and sample projects that demonstrate my skills. 
+These projects serve as valuable additions to my CV. 
 
-For my published games:
-https://fgolge.itch.io/
+For my published games, you can find them at https://fgolge.itch.io/
 
 <!---
 fgolge/fgolge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
